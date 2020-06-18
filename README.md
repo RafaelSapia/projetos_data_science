@@ -20,5 +20,5 @@ Até o momento, a faculdade de Engenharia me deu boas habilidades com análise d
 
 ## Projetos:
 *  **Análise dos dados do Airbnb de Nova York:** https://bit.ly/2MKKpTL
-*  **Analisando dados da Violência no Rio de Janeiro:** https://bit.ly/2zCrhEI
+*  **Analisando dados da Violência no Rio de Janeiro:** https://bit.ly/2N9dtVq
 ---

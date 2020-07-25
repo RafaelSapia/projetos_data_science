@@ -23,4 +23,5 @@ Até o momento, a faculdade de Engenharia me deu boas habilidades com análise d
 *  **Analisando dados da Violência no Rio de Janeiro:** https://bit.ly/2N5b0v5
 *  **Panorama da COVID-19 no Brasil e no Mundo:** https://bit.ly/2YpQ0Wd
 *  **Detectando Fraudes em Cartões de Crédito:** https://bit.ly/3guFDH1
+*  **Churn Prediction para uma empresa de telecomunicações:** https://bit.ly/3jz7yYu
 ---

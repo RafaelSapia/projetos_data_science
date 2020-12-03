@@ -7,7 +7,7 @@
 # Rafael Sapia
 <sub>Estudante de Engenharia Química e Data Science</sub>
 
-Pretendo, como cientista de dados, buscar tratar todo tipo de dado em prol da facilitação, previsão ou otimização de um problema. Quero ter a opotunidade de trabalhar em todo tipo de área aplicando Data Science, em especial na área que estou me formando, Engenharia Química, também na área Biológica e na área Espacial.
+Pretendo, como cientista de dados, buscar tratar todo tipo de dado em prol da facilitação, previsão ou otimização de um problema. Quero ter a opotunidade de trabalhar em todo tipo de área aplicando Data Science, em especial na área que estou me formando, Engenharia Química, também na área Biotecnológica e na área da Saúde.
 
 Até o momento, a faculdade de Engenharia me deu boas habilidades com análise de dados, pensamento lógico, rápida tomada de decisão, capacidade organizacional, resiliência e aptidão com cálculo. Aplico e continuarei aplicando tais habilidades tanto em minha carreira como engenheiro como na carreira de cientista de dados. 
 

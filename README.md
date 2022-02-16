@@ -24,4 +24,5 @@ Até o momento, a faculdade de Engenharia me deu boas habilidades com análise d
 *  **Panorama da COVID-19 no Brasil e no Mundo:** https://bit.ly/2YpQ0Wd
 *  **Detectando Fraudes em Cartões de Crédito:** https://bit.ly/3guFDH1
 *  **Churn Prediction para uma empresa de telecomunicações:** https://bit.ly/3jz7yYu
+*  L3,QU/L4,RP/L6,QU/L7,99/L10,99/L11,QU/L13,RP/L17,99/L19,RP/L22,RP/L23,QU
 ---
